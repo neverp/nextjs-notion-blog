@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9fc4005ace274416bf5d756d02c4700a',
+  rootNotionPageId: '2964d4763eaa4997bd3f2cd4579ff76f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
+  rootNotionSpaceId: "9339004e-2b47-498c-b600-d2a5e664dec1",
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
+  name: '我o的博客',
+  domain: 'https://neverup.notion.site/neverup/2964d4763eaa4997bd3f2cd4579ff76f',
   author: 'zhimiao li',
 
   // open graph metadata (optional)
-  description: '笔记、博客和其他记录',
-  socialImageTitle: 'lizhimiao的博客',
+  description: '欢迎',
+  socialImageTitle: '我的博客',
   socialImageSubtitle: '👋',
 
   // social usernames (optional)
-  twitter: '_lizhimiao',
-  github: 'zhimiaoli',
-  linkedin: 'lizhimiao',
+  twitter: '',
+  github: 'neverp',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

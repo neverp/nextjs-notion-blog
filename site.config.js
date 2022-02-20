@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: "9339004e-2b47-498c-b600-d2a5e664dec1",
 
   // basic site info (required)
-  name: '我o的博客',
+  name: '我的博客',
   domain: 'https://neverup.notion.site/neverup/2964d4763eaa4997bd3f2cd4579ff76f',
-  author: 'zhimiao li',
+  author: '我永不服输!',
 
   // open graph metadata (optional)
   description: '欢迎',
